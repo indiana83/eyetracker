@@ -15,6 +15,7 @@
 *    skeletal view                                                      *
 * 2. deactivated ComboBox object/function                               *
 * 3. global variables for depth and color images and new functions      *
+* 4.                                                                    *
 *                                                                       *
 ************************************************************************/
 
